@@ -25,3 +25,17 @@ logs/
 
 # Misc
 coverage/
+# Node.js dependencies
+node_modules
+
+# Vite build output
+dist
+
+# Vite cache
+.vite
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
